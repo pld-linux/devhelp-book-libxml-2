@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/libxml-2.tar.gz
+# Source0-md5:	22027287e8da74a8ccf33b5f101fac39
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
