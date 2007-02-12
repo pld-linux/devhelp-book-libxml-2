@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libxml2
-Summary(pl.UTF-8):   Książka do DevHelpa o libxml2
+Summary(pl.UTF-8):	Książka do DevHelpa o libxml2
 Name:		devhelp-book-libxml-2
 Version:	1.0
 Release:	1
